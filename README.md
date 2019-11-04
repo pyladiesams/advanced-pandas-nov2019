@@ -1,6 +1,6 @@
 
-# An introduction to { YOUR TOPIC } with { LIBRARY YOU USE } 
-### Level: Beginner or Advanced
+# A deep dive into Pandas
+### Level: Advanced
 ### Presentation: (where your audience can find the presentation)
 
 ## Project description
