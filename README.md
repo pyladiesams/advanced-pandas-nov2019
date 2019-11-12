@@ -1,5 +1,5 @@
 
-# A deep dive into Pandas
+# A Deep Dive into Advanced Pandas
 ### Level: Advanced
 ### Presentation: (where your audience can find the presentation)
 
