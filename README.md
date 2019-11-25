@@ -1,21 +1,14 @@
 
 # A Deep Dive into Advanced Pandas
 ### Level: Advanced
-### Presentation: (where your audience can find the presentation)
+
+### Presentation: https://github.com/pyladiesams/Pandas-advanced-nov2019/blob/master/presentation.pdf
 
 ## Project description
-Describe why your introduction to this topic is important and what you want to teach to your audience
-
-
-## Setup:
-Set up a Python 3 environment that can run Jupyter notebooks (Jupyter or Jupyterlab) and install the following libraries:
-* ...
-
-The easiest way to do this is to install [anaconda](https://www.anaconda.com/distribution/) and install the libraries in your root environment:
-```conda install matplotlib pandas seaborn```
-
-If you already have a running (ana)conda environment, you can use `intro.yml` to set up a separate enviroment:
-```conda env create -f environment.yml```
+We will deep dive into Advanced Pandas and explore:
+- Group By: split-apply-combine operations
+- Loading data (schemas, encoding, performance)
+- Date & time (converting to datetime, error handling, data analysis)
 
 ## Requirements
 * Python 3.5+
@@ -40,7 +33,4 @@ Alternative using online notebook colab:
 * Upload a notebook
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github}
-
-
-# Pyladies workshop: Advanced Pandas
+This workshop was set up by @pyladiesams, Cheryl Zandvliet and Cindy Cressot
