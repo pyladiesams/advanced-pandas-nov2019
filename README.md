@@ -5,18 +5,21 @@
 ### Presentation: https://github.com/pyladiesams/Pandas-advanced-nov2019/blob/master/presentation.pdf
 
 ## Project description
-We will deep dive into Advanced Pandas and explore:
-- Group By: split-apply-combine operations
-- Loading data (schemas, encoding, performance)
+Describe why your introduction to this topic is important and what you want to teach to your audience
+During this workshop, we will dive into Advanced Pandas and explore:
 - Date & time (converting to datetime, error handling, data analysis)
+- Loading data (schemas, encoding, performance)
+- Group By: split-apply-combine operations
 
 ## Requirements
 * Python 3.5+
 * pandas 0.25.4
 * jupyter lab 1.2.3
-* pyenv
+* pyenv (optional)
 
 ## Usage
+
+Using virtual environment:
 * Download and install pyenv 
 * Clone the repository
 * pyenv install 3.6.8 (or any python version compatible)
@@ -24,13 +27,23 @@ We will deep dive into Advanced Pandas and explore:
 * pyenv -m venv venv (create a virtual environment)
 * source venv/bin/activate (activate the virtual env)
 * pip install pandas==0.25.4 jupyterLab==1.2.3
-* Start jupyter(lab) and navigate to the workshop folder
+* Start jupyterLab and navigate to the workshop folder
 
 Alternative using online notebook colab: 
 - requires a google account
 * Connect to this website : https://colab.research.google.com/
 * Click on File
-* Upload a notebook
+* Click Open a notebook
+* Under Github tab enter this URL : https://github.com/pyladiesams/Pandas-advanced-nov2019 
+* Press enter this will sync and show all notebooks available
+* Choose workshop/X.ipynb
+* Cloning the repo and installation the requirements are done through the notebook. The first time, it will take some time to spin up a machine !
+
+Important : these steps need to be performed for every notebook since it spins up a fresh machine everytime
+If you want to save your work, you can either save in your Google Drive or right click and download on your local machine 
 
 ## Credits
-This workshop was set up by @pyladiesams, Cheryl Zandvliet and Cindy Cressot
+This workshop was set up by @pyladiesams, Cheryl Zandvliet (https://github.com/verycherry) and Cindy Cressot (https://github.com/cindy-cressot)
+
+
+# Pyladies workshop: Advanced Pandas
