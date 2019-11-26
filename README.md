@@ -5,7 +5,6 @@
 ### Presentation: https://github.com/pyladiesams/Pandas-advanced-nov2019/blob/master/presentation.pdf
 
 ## Project description
-Describe why your introduction to this topic is important and what you want to teach to your audience
 During this workshop, we will dive into Advanced Pandas and explore:
 - Date & time (converting to datetime, error handling, data analysis)
 - Loading data (schemas, encoding, performance)
