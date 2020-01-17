@@ -21,12 +21,12 @@ During this workshop, we will dive into Advanced Pandas and explore:
 Using virtual environment:
 * Download and install pyenv
 * Clone the repository
-* pyenv install 3.6.8 (or any python version compatible)
-* pyenv shell 3.6.8 (specify which python to use)
-* pyenv -m venv venv (create a virtual environment)
-* source venv/bin/activate (activate the virtual env)
-* pip install pandas==0.25.3 jupyterLab==1.2.3
-* Start jupyterLab and navigate to the workshop folder
+* `pyenv install 3.6.8` (or any python version compatible)
+* `pyenv shell 3.6.8` (specify which python to use)
+* `python -m venv venv` (create a virtual environment)
+* `source venv/bin/activate` (activate the virtual env)
+* `pip install pandas==0.25.3 jupyterLab==1.2.3 matplotlib==3.1.2`
+* Start jupyterLab `jupyter lab` and navigate to the workshop folder
 
 Alternative using online notebook colab:
 - requires a google account
